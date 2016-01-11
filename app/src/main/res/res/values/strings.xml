@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapGuide</string>
+    <string name="string_daohang">导航</string>
+    <string name="string_map_baidu">百度地图</string>
+    <string name="string_map_gaode">高德地图</string>
+    <string name="string_map_tengxun">腾讯地图</string>
+    <string name="string_map_not_install_notice">您还没有安转该地图，系统帮你跳转浏览器导航</string>
+    <string name="addstr">江苏省无锡市新区震泽路18号国家软件园金牛座3楼</string>
+</resources>
