@@ -9,9 +9,8 @@
 
 
 
-### MIT License
+### MapGuideTest License
 
-```
 The MapGuideTest License (MapGuideTest)
 
 Copyright (c) 2015 MapGuideTest
