@@ -3,7 +3,7 @@
 
 地图导航
 
-![](https://raw.githubusercontent.com/CrazyTT/MapGuideTest/master/pic/device-2016-01-11-111659.png)
+![](https://github.com/CrazyTT/MapGuideTest/blob/master/pic/1232131312.gif?raw=true)
 
 ![](https://github.com/CrazyTT/MapGuideTest/blob/master/pic/device-2016-01-11-111638.png?raw=true)
 
