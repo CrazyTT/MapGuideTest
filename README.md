@@ -3,6 +3,10 @@
 
 地图导航
 
+
+# 我的android开发技术交流群64288703
+# 崇尚开源，崇尚分享，欢迎各路大牛前来
+
 ![](https://github.com/CrazyTT/MapGuideTest/blob/master/pic/1232131312.gif?raw=true)
 
 ![](https://github.com/CrazyTT/MapGuideTest/blob/master/pic/device-2016-01-11-111638.png?raw=true)
